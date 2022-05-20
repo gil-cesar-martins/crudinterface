@@ -1,6 +1,6 @@
-#Projeto para auxiliar ao ministrar um treinamento sobre a Norma Regulamentadora NR-6 (Equipamentos de Proteção Individual)
+# Projeto para auxiliar ao ministrar um treinamento sobre a Norma Regulamentadora NR-6 (Equipamentos de Proteção Individual)
 
-###Deploy local
+### Deploy local
 Instale as seguinte bibliotecas com o comando pip:
 
 `pip install django==3.2.13 django-bootstrap-v5`
