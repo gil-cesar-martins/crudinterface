@@ -1,4 +1,4 @@
-# Projeto que facilita o entendimento de um CRUD (CREATE , UPDATE e DELETE) usando o class based view no Django:
+## Projeto que facilita o entendimento de um CRUD (CREATE , UPDATE e DELETE) usando o class based view no Django:
 
 ### Deploy local
 Instale as seguinte bibliotecas com o comando pip:
